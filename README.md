@@ -1,4 +1,4 @@
-# Sinatra Hello World Basics
+# Sintra Hello World Basics
 
 ## Objectives
 
